@@ -2,11 +2,14 @@
 
 Welcome to Sparta training!
 
-<<<<<<< HEAD
 
 
 This is something fun!
 
-=======
 Hello what a beautiful sunny day
->>>>>>> dev
+
+
+
+Joe change - couldn't edit through IntelliJ
+
+
