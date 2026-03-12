@@ -2,3 +2,4 @@
 
 Welcome to Sparta training!
 
+Hello what a beautiful sunny day
